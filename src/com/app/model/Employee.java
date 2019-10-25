@@ -6,4 +6,5 @@ public class Employee {
 	private double empSal;
 	private String ename;
 	private int empId;
+	private String model;
 }
